@@ -10,8 +10,8 @@ This repository contains the complete NexFlix iOS project for submission.
 
 ## Screenshots
 
-![Home Screen]<img width="375" height="700" alt="Image" src="https://github.com/user-attachments/assets/2187d0a6-fff2-4fe6-a470-9a9e3d0cce8b" />
-![Movie Details]<img width="375" height="700" alt="DetailsScreen" src="https://github.com/user-attachments/assets/cd0bf574-8c19-4acd-8d06-884a3321ee33" />
+<img width="300" height="600" alt="Image" src="https://github.com/user-attachments/assets/2187d0a6-fff2-4fe6-a470-9a9e3d0cce8b" />
+<img width="300" height="600" alt="DetailsScreen" src="https://github.com/user-attachments/assets/cd0bf574-8c19-4acd-8d06-884a3321ee33" />
 
 
 > **Note:** Place your screenshots in a `Screenshots` folder inside the repository for GitHub to display them correctly.
